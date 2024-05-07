@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/local_face_store/static/css/main.976a93eb.css",
-    "main.js": "/local_face_store/static/js/main.45fa5389.js",
+    "main.js": "/local_face_store/static/js/main.b4ffcbe2.js",
     "static/media/hero_bg.png": "/local_face_store/static/media/hero_bg.2c45cb7be7841b4fb56e.png",
     "static/media/ourValuesSecBG.png": "/local_face_store/static/media/ourValuesSecBG.f16d9c3d2d2447a5edab.png",
     "static/media/aboutSecperfumeBG.png": "/local_face_store/static/media/aboutSecperfumeBG.7bb1612583cd43cf77f1.png",
@@ -42,10 +42,10 @@
     "static/media/pro-12.png": "/local_face_store/static/media/pro-12.8dc8cf71242099325c91.png",
     "index.html": "/local_face_store/index.html",
     "main.976a93eb.css.map": "/local_face_store/static/css/main.976a93eb.css.map",
-    "main.45fa5389.js.map": "/local_face_store/static/js/main.45fa5389.js.map"
+    "main.b4ffcbe2.js.map": "/local_face_store/static/js/main.b4ffcbe2.js.map"
   },
   "entrypoints": [
     "static/css/main.976a93eb.css",
-    "static/js/main.45fa5389.js"
+    "static/js/main.b4ffcbe2.js"
   ]
 }
